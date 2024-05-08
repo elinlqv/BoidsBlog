@@ -2,10 +2,14 @@ import Link from "next/link";
 
 export default function Navbar() {
   return (
-    <nav className="bg-red-600 sticky top-0 p-4 drop-shadow-xl z-10">
-      <div className=" prose prose-xl mx-auto flex justify-between flex-col sm:flex-row">
-        <Link href="/" className=" text-white no-underline hover:text-#fbbf24">
-          Elin's DevBlog
+    <nav className="bg-blue-200 sticky top-0 drop-shadow-xl z-10 p-4">
+      <div className="  mx-auto flex justify-between flex-col sm:flex-row">
+        <Link href="/">
+          <img
+            src="../../images/bird3.png"
+            alt="a pic of elin"
+            className="w-16 h-16  "
+          ></img>
         </Link>
       </div>
     </nav>
