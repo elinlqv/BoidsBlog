@@ -6,7 +6,7 @@ date: "2023-05-10"
 For our DH2323 project we will make a 3D implementation of the Boids algorithm.  
 Here's a 2D version.
 
-![boid gif](.public/images/boidsgif.gif)
+![boid gif](https://github.com/elinlqv/BoidsBlog/blob/main/public/images/boidsgif.gif)
 
 ## So what's boids?
 
