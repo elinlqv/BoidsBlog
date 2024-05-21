@@ -12,3 +12,9 @@ Rendered the "boids", the cylinders are not very bird-like at the moment, but we
 
 Implementing the neighbor function
 ![Verifying neighbor function](/images/distance.png)
+
+
+implementing the Flock Centering function. 
+
+https://github.com/elinlqv/BoidsBlog/assets/92014851/3c69c20f-d5f8-4ccb-98fb-370ceca560a6
+
