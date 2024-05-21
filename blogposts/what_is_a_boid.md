@@ -1,14 +1,14 @@
 ---
-title: "What is BOIDS actually?"
+title: "What is a BOID?"
 date: "2023-05-10"
 ---
 
 For our DH2323 project we will make a 3D implementation of the Boids algorithm.  
-Here's a 2D version.
+Here's what a 2D version looks like, source unknown.
 
 ![boid](/images/boidsgif.gif)
 
-## So what's boids?
+## So what is a boid?
 
 Boids is an artificial life simulation originally developed by Craig Reynolds. The aim of the simulation is to replicate the behavior of flocks of birds. But it can also be used to simulate flocking behavoiur of e.g. fish, insects or other herds of animals.
 
